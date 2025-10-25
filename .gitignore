@@ -1,3 +1,13 @@
-venv/
 __pycache__/
 *.pyc
+*.so
+*.pyd
+*py[cod]
+
+# VE
+venv/
+env/
+.venv/
+
+#dados
+*.csv
