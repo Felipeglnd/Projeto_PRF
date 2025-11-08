@@ -76,20 +76,7 @@ Durante a fase de *Data Preparation*, serão realizados:
 
 | Tipo de Gráfico | Objetivo | Ferramenta |
 |-----------------|-----------|-------------|
-| **Mapa coroplético / Heatmap** | Identificar hotspots de acidentes | `plotly`, `folium` |
-| **Gráfico de barras comparativo** | Comparar anos, estados e causas | `plotly.express` |
-| **Boxplot / Violino** | Analisar distribuição da gravidade por tipo de pista | `seaborn` |
-| **Gráfico de linha temporal** | Evolução de acidentes ao longo dos meses | `matplotlib`, `plotly` |
-| **Heatmap temporal (dia x hora)** | Entender padrões sazonais | `seaborn` |
-| **Gráfico de Pareto** | Identificar principais causas fatais | `plotly` |
 
----
-
-## 📈 Principais Entregáveis
-
-- Notebook Jupyter: `01_exploracao_inicial.ipynb`  
-- Dataset tratado: `dados_prf_tratado.csv`  
-- Relatório de insights e recomendações para a PRF  
 
 ---
 
