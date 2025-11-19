@@ -40,14 +40,12 @@ Realizar uma **Análise Exploratória de Dados (EDA)** sobre os registros de aci
 |---|-----------|----------------|
 | 1 | Quais estados e rodovias concentram o maior número de acidentes? | Identifica regiões prioritárias para fiscalização. |
 | 2 | Quais são os horários e dias da semana com mais acidentes? | Apoia escalas operacionais e campanhas educativas. |
-| 3 | Qual a relação entre tipo de pista e gravidade dos acidentes? | Pode indicar problemas estruturais nas vias. |
-| 4 | Os acidentes aumentaram ou diminuíram de 2023 para 2024? | Mede impacto de políticas e operações da PRF. |
-| 5 | Quais causas presumidas mais contribuem para acidentes fatais? | Direciona campanhas de conscientização. |
-| 6 | Quais tipos de veículos mais se envolvem em acidentes graves? | Define foco de fiscalização. |
-| 7 | Quais condições meteorológicas estão mais associadas a acidentes? | Permite reforçar alertas em condições climáticas adversas. |
-| 8 | Quais municípios apresentaram maior crescimento percentual de acidentes? | Identifica áreas emergentes de risco. |
-| 9 | Qual o perfil temporal dos acidentes por turno (manhã, tarde, noite, madrugada)? | Entende o comportamento do risco ao longo do dia. |
-| 10 | Existe relação entre número de vítimas e tipo de acidente? | Prioriza ações de prevenção conforme gravidade. |
+| 3 | Os acidentes aumentaram ou diminuíram de 2023 para 2024? | Mede impacto de políticas e operações da PRF. |
+| 4 | Quais causas presumidas mais contribuem para acidentes fatais? | Direciona campanhas de conscientização. | |
+| 5 | Quais condições meteorológicas estão mais associadas a acidentes? | Permite reforçar alertas em condições climáticas adversas. |
+| 6 | Quais municípios apresentaram maior crescimento percentual de acidentes? | Identifica áreas emergentes de risco. |
+| 7 | Qual o perfil temporal dos acidentes por turno (manhã, tarde, noite, madrugada)? | Entende o comportamento do risco ao longo do dia. |
+| 8 | Existe relação entre número de vítimas e tipo de acidente? | Prioriza ações de prevenção conforme gravidade. |
 
 ---
 
