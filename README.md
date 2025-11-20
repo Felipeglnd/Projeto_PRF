@@ -43,11 +43,9 @@ Realizar uma **Análise Exploratória de Dados (EDA)** sobre os registros de aci
 | 3 | Qual a relação entre tipo de pista e gravidade dos acidentes? | Pode indicar problemas estruturais nas vias. |
 | 4 | Os acidentes aumentaram ou diminuíram de 2023 para 2024? | Mede impacto de políticas e operações da PRF. |
 | 5 | Quais causas presumidas mais contribuem para acidentes fatais? | Direciona campanhas de conscientização. |
-| 6 | Quais tipos de veículos mais se envolvem em acidentes graves? | Define foco de fiscalização. |
-| 7 | Quais condições meteorológicas estão mais associadas a acidentes? | Permite reforçar alertas em condições climáticas adversas. |
-| 8 | Quais municípios apresentaram maior crescimento percentual de acidentes? | Identifica áreas emergentes de risco. |
-| 9 | Qual o perfil temporal dos acidentes por turno (manhã, tarde, noite, madrugada)? | Entende o comportamento do risco ao longo do dia. |
-| 10 | Existe relação entre número de vítimas e tipo de acidente? | Prioriza ações de prevenção conforme gravidade. |
+| 6 | Quais condições meteorológicas estão mais associadas a acidentes? | Permite reforçar alertas em condições climáticas adversas. |
+| 7 | Quais municípios apresentaram maior crescimento percentual de acidentes? | Identifica áreas emergentes de risco. |
+| 8 | Qual o perfil temporal dos acidentes por turno (manhã, tarde, noite, madrugada)? | Entende o comportamento do risco ao longo do dia. |
 
 ---
 
@@ -72,14 +70,6 @@ Durante a fase de *Data Preparation*, serão realizados:
 
 ---
 
-## 📊 Visualizações e Insights Esperados
-
-| Tipo de Gráfico | Objetivo | Ferramenta |
-|-----------------|-----------|-------------|
-
-
----
-
 ## 🧠 Possíveis Aplicações Práticas para a PRF
 
 - Planejamento de **operações de fiscalização preventiva**;  
@@ -94,4 +84,3 @@ Durante a fase de *Data Preparation*, serão realizados:
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Jupyter Notebook  
 - Git / GitHub para versionamento  
-- (Futuro) Power BI ou Streamlit para dashboard interativo  
