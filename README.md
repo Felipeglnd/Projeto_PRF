@@ -44,7 +44,7 @@ Realizar uma **Análise Exploratória de Dados (EDA)** sobre os registros de aci
 | 4 | Os acidentes aumentaram ou diminuíram de 2023 para 2024? | Mede impacto de políticas e operações da PRF. |
 | 5 | Quais causas presumidas mais contribuem para acidentes fatais? | Direciona campanhas de conscientização. |
 | 6 | Quais condições meteorológicas estão mais associadas a acidentes? | Permite reforçar alertas em condições climáticas adversas. |
-| 7 | Quais municípios apresentaram maior crescimento percentual de acidentes? | Identifica áreas emergentes de risco. |
+| 7 | Quais Estados apresentaram maior crescimento percentual de acidentes? | Identifica áreas emergentes de risco. |
 | 8 | Qual o perfil temporal dos acidentes por turno (manhã, tarde, noite, madrugada)? | Entende o comportamento do risco ao longo do dia. |
 
 ---
