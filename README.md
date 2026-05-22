@@ -79,9 +79,22 @@ Durante a fase de *Data Preparation*, serão realizados:
 
 ---
 
+🎤 Apresentação Executiva
+
+Este projeto também conta com uma apresentação executiva desenvolvida no Google Slides, contendo:
+
+Objetivos das análises;
+Principais análises exploratórias;
+Insights encontrados;
+Recomendações estratégicas baseadas nos dados.
+
+🔗 Acessar apresentação: [https://bit.ly/eda_prf]
+
+---
+
 ## 📚 Tecnologias Utilizadas
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Jupyter Notebook  
-- Git / GitHub para versionamento  
-- (Futuro) Power BI ou Streamlit para dashboard interativo  
+- Git / GitHub para versionamento
+- Google Slides para apresentação executiva do projeto
